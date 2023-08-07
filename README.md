@@ -4,9 +4,9 @@
 -      🌱 Data Structure and algorithm
 -      🌱 Object Oriented Programming
 -      🌱 SQL
--      🌱 Html, Css, Jawascript, NodeJs(Basics)
+-      🌱 Html, Css, Javascript, NodeJs(Basics)
 -      🌱 Computer Fundamentals
-- 🌱 I’m currently practising Data structure and Algo to enhance my thinking  and Learning Web Developemt By making Small Small Projects.
+- 🌱 I’m currently practicing Data structure and Algo to enhance my thinking  and Learning Web Developemt By making Small Small Projects.
 - 👀I am also very much interested in games. I use to play handball, Kho-Kho . Yoga is best thing I like in do in my boaring days.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
